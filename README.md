@@ -11,3 +11,5 @@ platform: show cdp neighbor
 
 
 secure password appendix b
+
+connection: ssh, rest
