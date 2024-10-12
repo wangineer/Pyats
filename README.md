@@ -8,3 +8,6 @@ platform: show cdp neighbor
           show module
           show inventory (maybe)
    how do you defermine dnac? palo alto?
+
+
+secure password appendix b
